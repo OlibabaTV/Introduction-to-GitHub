@@ -44,7 +44,7 @@
 ### These instructions will show you how to clone your Git Repository to your local terminal. 
 1. ### From the Git repository, click on the Code button, select HTTPS and copy the repository URL
  
-![my_image](img\clone.png)
+![my_image](img/clone.PNG)
 
 2. ### Launch and open your Git terminal  
 3. ### Change the directory you want to perfrom your clone, type **cd** followed by the directory name and press **Enter**
