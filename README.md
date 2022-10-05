@@ -16,7 +16,7 @@
 ### GitHub is a great tool for developers to leverage on and work on projects together irespective of their locations. GitHub give users access to collaborate and network for team project execution. 
 
 # **What is GitHub**
-<style>body {text-align: justify}</style>
+
 
 ### GitHub is the largest open-source coding community on the internet powered by Git. GitHub is an online platform where users can upload code files, technical documentation, or articles in a repository for others to view and cause changes to the file. Users at different locations can collaborate and edit the uploaded files. While you upload your files on GitHub for various reasons, Git keeps track of any changes made in the file. Create your GitHub account by clicking the sign up link [Sign up here](http://www.GitHub.com/). 
 
@@ -44,7 +44,7 @@
 ### These instructions will show you how to clone your Git Repository to your local terminal. 
 1. ### From the Git repository, click on the Code button, select HTTPS and copy the repository URL
  
-![Picture](clone.png) 
+![my_image](img\clone.png)
 
 2. ### Launch and open your Git terminal  
 3. ### Change the directory you want to perfrom your clone, type **cd** followed by the directory name and press **Enter**
