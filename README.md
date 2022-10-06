@@ -98,33 +98,31 @@ Now that we are done making changes to the repository we can now push the it to 
 git push origin my-message
 ```
 
-# **GitHub Desktop vs GitHub CLI**
 ## **GitHub Desktop**
 
-### GitHub Desktop extends and simplifies your Git and GitHub workflow using a visual interface.
-### According to ["docs.github.com"](https://docs.github.com/en/get-started/using-github/github-cli/) GitHub Desktop is an open source tool that enables you to be more productive. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub.
+GitHub Desktop extends and simplifies your Git and GitHub workflow using a visual interface. According to ["docs.github.com"](https://docs.github.com/en/get-started/using-github/github-cli/) GitHub Desktop is an open source tool that enables you to be more productive. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub.
 
-### Just a few of the many things you can do with GitHub Desktop are:
+Just a few of the many things you can do with GitHub Desktop are:
 
-- ### Add changes to your commit interactively
-- ### Quickly add co-authors to your commit
-- ### Checkout branches with pull requests and view CI statuses
-- ### Compare changed images
+- Add changes to your commit interactively
+- Quickly add co-authors to your commit
+- Checkout branches with pull requests and view CI statuses
+- Compare changed images
+
 ## **GitHub CLI**
- ### GitHub CLI is a command-line tool that brings pull requests, issues, GitHub Actions, and other GitHub features to your terminal, so you can do all your work in one place.
 
-### GitHub CLI is an open source tool for using GitHub from your computer's command line. When you're working from the command line, you can use the GitHub CLI to save time and avoid switching context.
+GitHub CLI is a command-line tool that brings pull requests, issues, GitHub Actions, and other GitHub features to your terminal, so you can do all your work in one place. GitHub CLI is an open source tool for using GitHub from your computer's command line. When you're working from the command line, you can use the GitHub CLI to save time and avoid switching context.
 
-### GitHub CLI includes GitHub features such as:
+GitHub CLI includes GitHub features such as:
 
-- ### View, create, clone, and fork repositories
-- ### Create, close, edit, and view issues and pull requests
-- ### Review, diff, and merge pull requests
-- ### Run, view, and list workflows
-- ### Create, list, view, and delete releases
-- ### Create, edit, list, view, and delete gists
-- ### List, create, delete, and connect to a codespace
-### For more information, see ["GitHub CLI."](https://docs.github.com/en/get-started/using-github/github-cli/)
+- View, create, clone, and fork repositories
+- Create, close, edit, and view issues and pull requests
+- Review, diff, and merge pull requests
+- Run, view, and list workflows
+- Create, list, view, and delete releases
+- Create, edit, list, view, and delete gists
+- List, create, delete, and connect to a codespace
+For more information, see ["GitHub CLI."](https://docs.github.com/en/get-started/using-github/github-cli/)
 
 # **Conclusion**
 
