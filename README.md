@@ -97,6 +97,7 @@ This means saving the record or file that has been edited in the repository to y
  ```
  git commit -m "my-message"
   ```
+The command will request you enter your github username and password, once you provide the details correctly you can go ahead and push your changes to github.
 
 ### 1. **Push changes to GitHub**
 Now that we are done making changes to the repository we can now push the it to gitbub, using the command syntax.
