@@ -59,9 +59,9 @@ If you have identified the repository you are making changes to, you navigate to
 ### 2. **Clone the Repository** 
 
 
-Once you have copied the clone URL, go to your git terminal and use the command syntaxt:
+Once you are done with the fork request, you copy the reposittory URL, go to your git terminal and use the command syntaxt:
 ```
- git clone paste the copied url  and enter
+ ***git clone*** paste the copied url and enter
  ```
 ![Picture](clonet.PNG) 
 
