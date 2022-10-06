@@ -32,13 +32,13 @@ Let’s see some major differences between Git and GitHub.
 |Git is hosted locally   | GitHub is an online platform  |
 | Git is a command line tool | GitHub is a Graphics User Intterface tool    |
 | Git is powered by Linux    | GitHub is powered by Microsoft   |
-|Git is a version control system  |    GitHub is hosting platform for Git Repository
-| Git is a software | GitHub is open source
+|Git is a version control system  |    GitHub is a hosting platform for Git Repository
+| Git is a software | GitHub is an open source platform
 
 #  **How to do cloning**
 Cloning allows users to copy the Git repository from a GitHub account to their local system. 
 These instructions will show you how to clone your Git Repository to your local terminal. 
-1. ### From the Git repository, click on the Code button, select HTTPS and copy the repository URL
+1. From the Git repository, click on the Code button, select HTTPS and copy the repository URL
  
   ![my_image](copy.PNG)
 
@@ -48,37 +48,42 @@ These instructions will show you how to clone your Git Repository to your local 
 ![Picture](clonet.PNG)
 
 # **How to do a pull request**
-### Pull requests works for collaboration, it inform collaborattors about changes made in a GitHub repository. Once a pull request is done, collaborators can review the changes then decides to commit by merging into the base branch. 
-### Every project file is stored in a folder called repository; a repository contains all your project files, documents, and code. Before you do a pull request of a repository you will need to duplicate that repository called fork so you can make changes without affecting the original project file.
+Pull requests works for collaboration, it inform collaborattors about changes made in a GitHub repository. Once a pull request is done, collaborators can review the changes then decides to commit by merging into the base branch. 
+Every project file is stored in a folder called repository; a repository contains all your project files, documents, and code. Before you do a pull request of a repository you will need to duplicate that repository called fork so you can make changes without affecting the original project file.
 
 ### 1. **Fork Respository** 
+If you have identified the repository you are making changes to, you navigate to the upper right hand corner of the github repository and click on fork.
 
-### If you have identified the repository you are making changes to, you navigate to the upper right hand corner of the github account and click on fork . 
 ![Picture](fork.PNG)
-##
 
 ### 2. **Clone the Repository** 
-#
 
-### Once you have copied the clone URL, go to your git terminal and use the command:
+
+Once you have copied the clone URL, go to your git terminal and use the command syntaxt:
 ```
- git clone (copied url) and paste the URL and enter
+ git clone paste the copied url  and enter
  ```
 ![Picture](clonet.PNG) 
-### We have successfully cloned the repository to the terminal, now we will create a new directory for the cloned repository with the command:
+
+We have successfully cloned the repository to the terminal, now we will create a new directory for the cloned repository with the command syntax:
 ```
 cd (Name of Directory)
 ```
 ![Picture](cd.PNG) 
+
 ### 3. **Create a branch** 
-### Creating a branch on a repository you are working on gives you a clear track of the changes you have made in the project. A branch name should be simple and clear. You can create a branch with the command: 
+Creating a branch on a repository you are working on gives you a clear track of the changes you have made in the project. A branch name should be simple and clear. You can create a branch with the command syntax: 
+
 ```
 git checkout -b [Branch Name]
 ```
 ![Picture](check.PNG) 
+
 ### 4. **Edit your project** 
-### you can now make changes to your repository by typing **README.MD** in the terminal. once you are done adding your changes you save, you can view the changes in the terminal with command **git diff** 
+### you can now make changes to your repository by typing command syntax **README.MD** in the terminal. Once you are done adding changes you save, view the changes in the terminal with command syntax **git diff** 
+
 ![Picture](diff.PNG) 
+
 ### 5. **Add changes to the branch** 
 ### Since you have made your changes in the reposiotry you can now add it to the branch name you created with the command:
 ```
