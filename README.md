@@ -40,12 +40,12 @@ Cloning allows users to copy the Git repository from a GitHub account to their l
 These instructions will show you how to clone your Git Repository to your local terminal. 
 1. ### From the Git repository, click on the Code button, select HTTPS and copy the repository URL
  
-  ![my_image](clone.PNG)
+  ![my_image](copy.PNG)
 
 1. Launch and open your Git terminal  
 2. type syntax **git Clone** syntax  and paste the URL
 
-![Picture](clonet.png)
+![Picture](clonet.PNG)
 
 # **How to do a pull request**
 ### Pull requests works for collaboration, it inform collaborattors about changes made in a GitHub repository. Once a pull request is done, collaborators can review the changes then decides to commit by merging into the base branch. 
@@ -54,7 +54,7 @@ These instructions will show you how to clone your Git Repository to your local 
 ### 1. **Fork Respository** 
 
 ### If you have identified the repository you are making changes to, you navigate to the upper right hand corner of the github account and click on fork . 
-![Picture](fork.png)
+![Picture](fork.PNG)
 ##
 
 ### 2. **Clone the Repository** 
@@ -64,27 +64,27 @@ These instructions will show you how to clone your Git Repository to your local 
 ```
  git clone (copied url) and paste the URL and enter
  ```
-![Picture](clonet.png) 
+![Picture](clonet.PNG) 
 ### We have successfully cloned the repository to the terminal, now we will create a new directory for the cloned repository with the command:
 ```
 cd (Name of Directory)
 ```
-![Picture](cd.png) 
+![Picture](cd.PNG) 
 ### 3. **Create a branch** 
 ### Creating a branch on a repository you are working on gives you a clear track of the changes you have made in the project. A branch name should be simple and clear. You can create a branch with the command: 
 ```
 git checkout -b [Branch Name]
 ```
-![Picture](check.png) 
+![Picture](check.PNG) 
 ### 4. **Edit your project** 
 ### you can now make changes to your repository by typing **README.MD** in the terminal. once you are done adding your changes you save, you can view the changes in the terminal with command **git diff** 
-![Picture](diff.png) 
+![Picture](diff.PNG) 
 ### 5. **Add changes to the branch** 
 ### Since you have made your changes in the reposiotry you can now add it to the branch name you created with the command:
 ```
 $ git add . or git add Readme.md
 ```
-![Picture](add1.png) 
+![Picture](add1.PNG) 
 
 # **Commit your changes**
 ### This means saving the record or file that has been edited in the repository to your branch. You can achieve this with the command: 
