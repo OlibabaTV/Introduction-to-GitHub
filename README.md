@@ -12,8 +12,7 @@
 
 # **Introduction**
 
-
-### GitHub is a great tool for developers to leverage on and work on projects together irespective of their locations. GitHub give users access to collaborate and network for team project execution. 
+GitHub is a great tool for developers to leverage on and work on projects together irespective of their locations. GitHub give users access to collaborate and network for team project execution. GitHub gives your project online exposure and security. Developers can host their software code and store project documentation on GitHub. This page will guide you through on some basics of Github operation.  
 
 # **What is GitHub**
 
@@ -44,11 +43,11 @@
 ### These instructions will show you how to clone your Git Repository to your local terminal. 
 1. ### From the Git repository, click on the Code button, select HTTPS and copy the repository URL
  
-![my_image](img/clone.PNG)
+  ![my_image](clone.png)
 
-2. ### Launch and open your Git terminal  
-3. ### Change the directory you want to perfrom your clone, type **cd** followed by the directory name and press **Enter**
-4. ### type **Git Clone** syntax  and paste the URL
+1. ### Launch and open your Git terminal  
+2. ### Change the directory you want to perfrom your clone, type **cd** followed by the directory name and press **Enter**
+3. ### type **Git Clone** syntax  and paste the URL
 ![Picture](capture.png)
 
 # **How to do a pull request**
@@ -59,11 +58,11 @@
 
 ### If you have identified the repository you are making changes to, you navigate to the upper right hand corner of the github account and click on fork . 
 ![Picture](fork.png)
+##
 
 ### 2. **Clone the Repository** 
-To get your own duplicate of the repository you are contributing to you should launch and open your git terminal, then copy the clone URL.
+#
 
-![Picture](clone1.png) 
 ### Once you have copied the clone URL, go to your git terminal and use the command:
 ```
  git clone (copied url) and paste the URL and enter
@@ -129,8 +128,9 @@ git push origin my-message
 - ### Create, edit, list, view, and delete gists
 - ### List, create, delete, and connect to a codespace
 ### For more information, see ["GitHub CLI."](https://docs.github.com/en/get-started/using-github/github-cli/)
+##
 # **Conclusion**
-### Git and GitHub are vital tools for software developers and technical writers. GitHub gives your project online exposure and security. Developers can host their software code and store project documentation on GitHub. 
+###  
 
 
 ### GitHub gives users collaborating feature to a project without interrupting the original file.
