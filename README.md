@@ -107,7 +107,7 @@ git push origin my-message
 
 ## **GitHub Desktop**
 
-GitHub Desktop extends and simplifies your Git and GitHub workflow using a visual interface. According to [github"](https://docs.github.com/en/get-started/using-github/github-cli/) GitHub Desktop is an open source tool that enables you to be more productive. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub.
+GitHub Desktop extends and simplifies your Git and GitHub workflow using a visual interface. According to [github](https://docs.github.com/en/get-started/using-github/github-cli/) GitHub Desktop is an open source tool that enables you to be more productive. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub.
 
 Just a few of the many things you can do with GitHub Desktop are:
 
@@ -129,7 +129,7 @@ GitHub CLI includes GitHub features such as:
 - Create, list, view, and delete releases
 - Create, edit, list, view, and delete gists
 - List, create, delete, and connect to a codespace
-For more information, see ["GitHub CLI."](https://docs.github.com/en/get-started/using-github/github-cli/)
+For more information, see [GitHub CLI](https://docs.github.com/en/get-started/using-github/github-cli/)
 
 # **Conclusion**
 
