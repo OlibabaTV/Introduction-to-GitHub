@@ -36,7 +36,7 @@ Let’s see some major differences between Git and GitHub.
 | Git is a software | GitHub is an open source platform
 
 #  **How to do cloning**
-Cloning allows users to copy the Git repository from a GitHub account to their local system. 
+Cloning allows users to copy the git repository from gitHub to their local system. 
 These instructions will show you how to clone your Git Repository to your local terminal. 
 1. From the Git repository, click on the Code button, select HTTPS and copy the repository URL
  
