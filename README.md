@@ -43,7 +43,7 @@ GitHub is a great tool for developers to leverage on and work on projects togeth
 ### These instructions will show you how to clone your Git Repository to your local terminal. 
 1. ### From the Git repository, click on the Code button, select HTTPS and copy the repository URL
  
-  ![my_image](clone.png)
+  ![my_image](clone.PNG)
 
 1. ### Launch and open your Git terminal  
 2. ### Change the directory you want to perfrom your clone, type **cd** followed by the directory name and press **Enter**
