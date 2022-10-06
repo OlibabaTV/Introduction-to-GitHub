@@ -48,11 +48,11 @@ These instructions will show you how to clone your Git Repository to your local 
 ![Picture](clonet.PNG)
 
 # **How to do a pull request**
-Pull requests works for collaboration, it inform collaborattors about changes made in a GitHub repository. Once a pull request is done, collaborators can review the changes then decides to commit by merging into the base branch. 
+Pull requests works for collaboration, it inform collaborattors about changes made in a github repository. Once a pull request is done, collaborators can review the changes then decides to commit by merging into the base branch. 
 Every project file is stored in a folder called repository; a repository contains all your project files, documents, and code. Before you do a pull request of a repository you will need to duplicate that repository called fork so you can make changes without affecting the original project file.
 
 ### 1. **Fork Respository** 
-If you have identified the repository you are making changes to, you navigate to the upper right hand corner of the github repository and click on fork.
+If you have identified the repository you are making changes to, you navigate to the upper right hand corner of the github repository and click on fork. Note, the fork request takes some time to duplicate your own copy of the repository.
 
 ![Picture](fork.PNG)
 
