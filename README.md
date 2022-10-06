@@ -43,7 +43,7 @@ These instructions will show you how to clone your Git Repository to your local 
   ![my_image](copy.PNG)
 
 1. Launch and open your Git terminal  
-2. type syntax **git Clone** syntax  and paste the URL
+2. type command syntax **git Clone** and paste the copied URL
 
 ![Picture](clonet.PNG)
 
