@@ -80,32 +80,32 @@ git checkout -b [Branch Name]
 ![Picture](check.PNG) 
 
 ### 4. **Edit your project** 
-### you can now make changes to your repository by typing command syntax **README.MD** in the terminal. Once you are done adding changes you save, view the changes in the terminal with command syntax **git diff** 
+You can now make changes to your repository by typing command syntax **README.MD** in the terminal. Once you are done adding changes you save, view the changes in the terminal with command syntax **git diff** 
 
 ![Picture](diff.PNG) 
 
 ### 5. **Add changes to the branch** 
-### Since you have made your changes in the reposiotry you can now add it to the branch name you created with the command:
+Since you have made your changes in the reposiotry you can now add it to the branch name you created with the command syntax:
 ```
 $ git add . or git add Readme.md
 ```
 ![Picture](add1.PNG) 
 
 # **Commit your changes**
-### This means saving the record or file that has been edited in the repository to your branch. You can achieve this with the command: 
+This means saving the record or file that has been edited in the repository to your branch. You can achieve this with the command syntax: 
  ```
  git commit -m "my-message"
   ```
 
 ### 1. **Push changes to GitHub**
-Now that we are done making changes to the repository we can now push the it to GitHub, using the command.
+Now that we are done making changes to the repository we can now push the it to gitbub, using the command syntax.
 ```
 git push origin my-message
 ```
 
 ## **GitHub Desktop**
 
-GitHub Desktop extends and simplifies your Git and GitHub workflow using a visual interface. According to ["docs.github.com"](https://docs.github.com/en/get-started/using-github/github-cli/) GitHub Desktop is an open source tool that enables you to be more productive. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub.
+GitHub Desktop extends and simplifies your Git and GitHub workflow using a visual interface. According to [github"](https://docs.github.com/en/get-started/using-github/github-cli/) GitHub Desktop is an open source tool that enables you to be more productive. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub.
 
 Just a few of the many things you can do with GitHub Desktop are:
 
