@@ -128,15 +128,7 @@ git push origin my-message
 - ### Create, edit, list, view, and delete gists
 - ### List, create, delete, and connect to a codespace
 ### For more information, see ["GitHub CLI."](https://docs.github.com/en/get-started/using-github/github-cli/)
-##
+
 # **Conclusion**
-###  
 
-
-### GitHub gives users collaborating feature to a project without interrupting the original file.
-
-
-### Developers can contribute to projects, make code changes and submit the changes to the online repository. 
-
-
-### GitHub gives developers different versions of their code projects. Aside from working on your team project or private repository, users can contribute to open-source projects hosted by other developers on Github.
+GitHub gives users collaborating feature to a project without interrupting the original file. Developers can contribute to projects, make code changes and submit the changes to the online repository. GitHub gives developers different versions of their code projects. Aside from working on your team project or private repository, users can contribute to open-source projects hosted by other developers on Github.
