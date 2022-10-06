@@ -12,22 +12,20 @@
 
 # **Introduction**
 
-GitHub is a great tool for developers to leverage on and work on projects together irespective of their locations. GitHub give users access to collaborate and network for team project execution. GitHub gives your project online exposure and security. Developers can host their software code and store project documentation on GitHub. This page will guide you through on some basics of Github operation.  
+GitHub is a great tool for developers to leverage on and work on projects together irespective of their locations. GitHub give users access to collaborate and network for team project execution. GitHub gives your project online exposure and security. Developers can host their software code and store project documentation on GitHub. This page will guide you through on some basics operations of github like fork repositories, push, branches, commits, clone and pull requests.  
 
 # **What is GitHub**
-
-
-### GitHub is the largest open-source coding community on the internet powered by Git. GitHub is an online platform where users can upload code files, technical documentation, or articles in a repository for others to view and cause changes to the file. Users at different locations can collaborate and edit the uploaded files. While you upload your files on GitHub for various reasons, Git keeps track of any changes made in the file. Create your GitHub account by clicking the sign up link [Sign up here](http://www.GitHub.com/). 
+GitHub is the largest open-source coding community on the internet powered by Git. GitHub is an online platform where users can upload code files, technical documentation, or articles in a repository for others to view and cause changes to the file. Users at different locations can collaborate and edit the uploaded files. While you upload your files on GitHub for various reasons, Git keeps track of any changes made in the file. Create your GitHub account by clicking the sign up link [Sign up here](http://www.GitHub.com/). 
 
 
 # **Why GitHub**
-### GitHub code files or projects are collaborative. with GitHub, you can backup your files and share your code with collaborators. The platform is open source and manages tasks that allow multiple users to work remotely on a project code without compromising the project's integrity. 
+GitHub code files or projects are collaborative. with GitHub, you can backup your files and share your code with collaborators. The platform is open source and manages tasks that allow multiple users to work remotely on a project code without compromising the project's integrity. 
  
 
 # **Git vs GitHub**
-### Git is a version control system that allows users to keep track of changes made on code projects or documents. Git manages source code and stores different versions of code files during the editing process. 
-### GitHub is a web-based service that is primarily focused on centralized code hosting using Git Repository.
-### Let’s see some major differences between Git and GitHub.
+Git is a version control system that allows users to keep track of changes made on code projects or documents. Git manages source code and stores different versions of code files during the editing process. 
+GitHub is a web-based service that is primarily focused on centralized code hosting using Git Repository.
+Let’s see some major differences between Git and GitHub.
 
 |Git      | GitHub |
 | ---      | ------- |
@@ -38,17 +36,16 @@ GitHub is a great tool for developers to leverage on and work on projects togeth
 | Git is a software | GitHub is open source
 
 #  **How to do cloning**
-### Cloning allows users to copy the Git repository from a GitHub account to their local system.
-### 
-### These instructions will show you how to clone your Git Repository to your local terminal. 
+Cloning allows users to copy the Git repository from a GitHub account to their local system. 
+These instructions will show you how to clone your Git Repository to your local terminal. 
 1. ### From the Git repository, click on the Code button, select HTTPS and copy the repository URL
  
   ![my_image](clone.PNG)
 
-1. ### Launch and open your Git terminal  
-2. ### Change the directory you want to perfrom your clone, type **cd** followed by the directory name and press **Enter**
-3. ### type **Git Clone** syntax  and paste the URL
-![Picture](capture.png)
+1. Launch and open your Git terminal  
+2. type syntax **git Clone** syntax  and paste the URL
+
+![Picture](clonet.png)
 
 # **How to do a pull request**
 ### Pull requests works for collaboration, it inform collaborattors about changes made in a GitHub repository. Once a pull request is done, collaborators can review the changes then decides to commit by merging into the base branch. 
