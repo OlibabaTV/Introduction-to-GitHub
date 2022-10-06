@@ -61,7 +61,7 @@ If you have identified the repository you are making changes to, you navigate to
 
 Once you are done with the fork request, you copy the reposittory URL, go to your git terminal and use the command syntaxt:
 ```
- ***git clone*** paste the copied url and enter
+ git clone paste the copied url and enter
  ```
 ![Picture](clonet.PNG) 
 
@@ -80,7 +80,8 @@ git checkout -b [Branch Name]
 ![Picture](check.PNG) 
 
 ### 4. **Edit your project** 
-You can now make changes to your repository by typing command syntax **README.MD** in the terminal. Once you are done adding changes you save, view the changes in the terminal with command syntax **git diff** 
+You can now make changes to your repository by typing command syntax **README.MD** in the terminal. 
+Once you are done adding changes you save, view the changes in the terminal with command syntax **git diff** 
 
 ![Picture](diff.PNG) 
 
