@@ -35,7 +35,7 @@ Let’s see some major differences between Git and GitHub.
 | Git is a software | GitHub is an open source platform
 
 #  **How to do cloning**
-Cloning allows users to copy the git repository from gitHub to their local system. 
+Cloning allows users to copy the git repository from GitHub to their local system. 
 These instructions will show you how to clone your Git Repository to your local terminal. 
 1. From the Git repository, click on the Code button, select HTTPS and copy the repository URL
  
@@ -64,14 +64,14 @@ Once you are done with the fork request, you copy the reposittory URL, go to you
  ```
 ![Picture](clonet.PNG) 
 
-We have successfully cloned the repository to the terminal, now we will create a new directory for the cloned repository with the command syntax:
+you have successfully cloned the repository to the terminal, now you will create a new directory for the cloned repository with the command syntax:
 ```
 cd (Name of Directory)
 ```
 ![Picture](cd.PNG) 
 
 ### 3. **Create a branch** 
-Creating a branch on a repository you are working on gives you a clear track of the changes you have made in the project. A branch name should be simple and clear. You can create a branch with the command syntax: 
+Creating a branch on a repository you are working on gives you a clear track of the changes you have made in the project. A branch name should be simple and clear. You can create a branch with the syntax: 
 
 ```
 git checkout -b [Branch Name]
@@ -99,7 +99,7 @@ This means saving the record or file that has been edited in the repository to y
 The command will request you enter your github username and password, once you provide the details correctly you can go ahead and push your changes to github.
 
 ### 1. **Push changes to GitHub**
-Now that we are done making changes to the repository we can now push the it to gitbub, using the command syntax.
+Now that you are done making changes to the repository we can now push the it to gitbub, using the command syntax.
 ```
 git push origin my-message
 ```
