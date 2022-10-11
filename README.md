@@ -11,7 +11,7 @@
 
 
 # **Introduction**
-GitHub is an open source hosting platform for team project collaboration, software development and code hosting. The Github platform provides code version control, code tracking, bug tracking,  task management, and project collaboration. GitHub is a great online tool for developers to work on projects together irespective of their locations. This article will guide you through some basics operations of GitHub like fork repositories, push, branches, commits, clone and pull requests.  
+GitHub is an open source hosting platform for team project collaboration, software development and code hosting. The Github platform provides code version control, code management,  task management, and project collaboration. GitHub is a great online tool for developers to work on projects together irespective of their locations. This article will guide you through some basics operations of GitHub like fork repositories, push, branches, commits, clone and pull requests.  
 
 # **What is GitHub**
 GitHub is an online platform where users upload code files, projects and technical documentation in a repository for others to view and cause changes to the file. Users at different locations can collaborate and edit the uploaded files. And while you upload your files on GitHub for various reasons, Git keeps track of any changes made in the file. you can Create your GitHub account by clicking on the sign up link [Sign up here](http://www.GitHub.com/). 
@@ -21,7 +21,8 @@ GitHub is an online platform where users upload code files, projects and technic
 They are various reasons people use GitHub which includes uploading of project, managing tasks, team collaboration on code files. One exciting thing about GitHub is that it allows multiple users work remotely on a project without compromising the project's integrity. With GitHub, you can backup your files and share your code with collaborators. 
 
 # **Git vs GitHub**
-Git is a version control system that allows users to keep track of changes made on code projects or documents. Git manages source code and stores different versions of code files during the editing process while GitHub is an online platform where users upload project for others to view, access and contribute to the project. All the operations performed in GitHub are hosted using Git Repository.
+Git is a version control system that allows users to keep track of changes made on code projects or documents. Git manages source code and stores different versions of code files during the editing process while GitHub is an online platform where users upload project for others to view, access and contribute to the project. All the operations performed in GitHub are hosted using Git Repository.Every project file is stored in a folder called repository; a repository contains all your project files, documents, and code.
+
 
 This table shows some differences between Git and GitHub.
 
@@ -46,8 +47,7 @@ These instructions will show you how to clone your Git Repository to your local 
 ![Picture](clonet.PNG)
 
 # **How to do a pull request**
-Pull requests works for collaboration, it inform collaborattors about changes made in a GitHub repository. Once a pull request is done, collaborators can review the changes then decides to the repository. 
-Every project file is stored in a folder called repository; a repository contains all your project files, documents, and code. Before you do a pull request of a repository you will need to duplicate that repository called fork so you can make changes without affecting the original project file.
+Pull requests works for collaboration, it inform collaborators about changes made in a GitHub repository. Before you do a pull request of a repository you will need to duplicate that repository called fork so you can make changes without affecting the original project file.
 
 ### 1. **Fork Respository** 
 If you have identified the repository you are making changes to, you navigate to the upper right hand corner of the github repository and click on fork. Note, the fork request takes some time to duplicate your own copy of the repository.
