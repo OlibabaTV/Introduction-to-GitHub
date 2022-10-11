@@ -12,10 +12,10 @@
 
 # **Introduction**
 
-GitHub is an open source hosting platform for team project collaboration, software development, code hosting and version control. The Github platform provides code version control, code tracking, bug tracking,  task management, and project collaboration. GitHub is a great online tool for developers to work on projects together irespective of their locations. This article will guide you through some basics operations of GitHub like fork repositories, push, branches, commits, clone and pull requests.  
+GitHub is an open source hosting platform for team project collaboration, software development and code hosting  The Github platform provides code version control, code tracking, bug tracking,  task management, and project collaboration. GitHub is a great online tool for developers to work on projects together irespective of their locations. This article will guide you through some basics operations of GitHub like fork repositories, push, branches, commits, clone and pull requests.  
 
 # **What is GitHub**
-GitHub is an online platform where users upload code files, projects, technical documentation, or articles in a repository for others to view and cause changes to the file. Users at different locations can collaborate and edit the uploaded files. And while you upload your files on GitHub for various reasons, Git keeps track of any changes made in the file. you can Create your GitHub account by clicking on the sign up link [Sign up here](http://www.GitHub.com/). 
+GitHub is an online platform where users upload code files, projects and technical documentation in a repository for others to view and cause changes to the file. Users at different locations can collaborate and edit the uploaded files. And while you upload your files on GitHub for various reasons, Git keeps track of any changes made in the file. you can Create your GitHub account by clicking on the sign up link [Sign up here](http://www.GitHub.com/). 
 
 
 # **Why GitHub**
@@ -113,7 +113,7 @@ The syntax will push your work to the GitHub Repository, once your edit is consi
 The GitHub Desktop makes use of user interface for better visuals when working on a repository. The GitHub Desktop is also an open source platform that makes users more productive during project collaboration.
 
 The GitHub CLI makes use of command syntax to perform action like commit, create, clone and pull request on a repository.  
-This table shows some differences between GitHub and GitCLI
+This table shows some differences between GitHub Desktop and GitCLI
 
 |   | GitHub Desktop  | GitHub CLI  |      
 |---|---|---|
