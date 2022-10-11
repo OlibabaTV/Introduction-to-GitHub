@@ -11,7 +11,6 @@
 
 
 # **Introduction**
-
 GitHub is an open source hosting platform for team project collaboration, software development and code hosting. The Github platform provides code version control, code tracking, bug tracking,  task management, and project collaboration. GitHub is a great online tool for developers to work on projects together irespective of their locations. This article will guide you through some basics operations of GitHub like fork repositories, push, branches, commits, clone and pull requests.  
 
 # **What is GitHub**
