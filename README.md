@@ -110,7 +110,8 @@ git checkout -b my-message
 After creating a branch name you can now make changes to your repository by typing the command
 
 `README.MD` in the Git CMD.
-![Picture](add.PNG)
+
+![Picture](add3.PNG)
 
 This will open the repository readme file you want to work on. Once you are done adding changes to the repository you save.
 
