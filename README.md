@@ -14,7 +14,7 @@
 GitHub is an open-source hosting platform for team project collaboration, software development, and code hosting. The GitHub platform provides a lot of features, like code version control, code management, task management, and project collaboration. GitHub is a great online tool for developers to work on projects together irrespective of their locations. This article will guide you through some basic operations of GitHub, like forking repositories, pushing, branches, commits, cloning, and pulling requests.  
 
 # **What is GitHub**
-GitHub is an online platform where users upload code files, projects and technical documentation in a repository for others to view and cause changes to the file. Users at different locations can collaborate and edit the uploaded files. And while you upload your files on GitHub for various reasons, Git keeps track of any changes made in the file. you can Create your GitHub account by clicking on the sign up link [Sign up here](http://www.GitHub.com/). 
+GitHub is an online platform where users upload code files, projects, and technical documentation in a repository for others to view and make changes to the files. Users at different locations can collaborate and edit the uploaded files. And while you upload your files on GitHub for various reasons, Git keeps track of any changes made to the file. You can Create your GitHub account by clicking on the link [Sign up here](http://www.GitHub.com/). 
 
 
 # **Why GitHub**
