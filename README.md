@@ -40,7 +40,7 @@ Cloning allows users to copy the Git repository from GitHub to their local syste
 3. Select HTTPS
 4. Copy the repository URL
  
-  ![image](clone2.PNG)
+  ![image](clone3.PNG)
 
 1. Launch and open your Git terminal  
 2. type command syntax **git Clone** and paste the copied URL
