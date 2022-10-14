@@ -43,10 +43,12 @@ Cloning allows users to copy the Git repository from GitHub to their local syste
   ![image](clone3.PNG)
 
 5. Launch and open **Git CMD** from your windows search button  
-6. type syntax '**git Clone**' [copied url]
+6. type syntax '**git Clone**' [copied url] hit the enter key
 
 Command
-'''git clone https://github.com/OlibabaTV/open-source-handbook.git'''
+```
+git clone https://github.com/OlibabaTV/open-source-handbook.git
+```
 
 ![Picture](clonet.PNG)
 
