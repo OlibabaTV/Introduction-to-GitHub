@@ -34,7 +34,7 @@ This table shows some differences between Git and GitHub.
 | Git is a software | GitHub is an open source platform
 
 #  **How to do cloning**
-Cloning allows users to copy the Git repository from GitHub to their local system. These instructions will show you how to clone your Git Repository to your local terminal in windows operating system.
+Cloning allows users to copy the Git repository from GitHub to their local system. These instructions will show you how to clone your Git Repository to your local terminal using windows computer.
 1. From the Git repository 
 2. Click on the Code button 
 3. Select HTTPS
@@ -54,11 +54,13 @@ git clone https://github.com/OlibabaTV/open-source-handbook.git
 
 ![Picture](clonet.PNG)
 
+This process will have your Git repository cloned in your local Git CMD.
+
 # **How to do a pull request**
-Pull requests works for collaboration, it inform collaborators about changes made in a GitHub repository. Before you do a pull request of a repository you will need to duplicate that repository called fork so you can make changes without affecting the original project file.
+Next, after cloning a repository, is how to perform a pull request. Pull requests work for collaboration; they inform collaborators about changes made in a GitHub repository. Before you do a pull request on a repository, you will need to duplicate that repository, called a fork, so you can make changes without affecting the original project file.
 
 ### 1. **Fork Respository** 
-If you have identified the repository you are making changes to, you navigate to the upper right hand corner of the github repository and click on fork. Note, the fork request takes some time to duplicate your own copy of the repository.
+If you have identified the repository you are making changes to, you navigate to the upper right-hand corner of the GitHub repository and click on the fork. Note that the fork request takes some time to duplicate your copy of the repository.
 
 ![Picture](fork.PNG)
 
