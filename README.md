@@ -42,11 +42,9 @@ Cloning allows users to copy the Git repository from GitHub to their local syste
  
   ![image](clone3.PNG)
 
-5. Launch and open **Git CMD** from your windows search button  
-6. type syntax 
-```
- git Clone [copied url] hit the enter key
-```
+5. On the windows taskbar select the search icon and type **Git CMD**   
+6. type syntax `git Clone [copied url] hit the enter key`
+
 **Command**
 ```
 git clone https://github.com/OlibabaTV/open-source-handbook.git
@@ -113,9 +111,7 @@ After creating a branch name you can now make changes to your repository by typi
 
 ![image](read.PNG)
 
-This will open the repository readme file you want to work on. Once you are done adding changes to the repository you save.
-
-You can view the changes made in the Git CMD with command
+This will open the repository readme file you want to work on. Once you are done adding changes to the repository you save and can view the changes made in the Git CMD with the command
 
 ```
  git diff
@@ -127,25 +123,29 @@ You can view the changes made in the Git CMD with command
 Since you have made changes in the reposiotry you can now add it to the branch name you created with the command
 
 ```
- git add . or git add Readme.md
+ git add.
 ```
 ![Picture](add1.PNG) 
 
 Note that Only changed and untracked files in the current directory will be added when you run git add.
 
 # **Commit your changes**
-This means saving the record that has been edited in the repository to your branch. You can achieve this with the syntax: 
+This means saving the record that has been edited in the repository to your branch. You can achieve this with the command
+
  ```
 git commit -m "my-message"
   ```
+  
 The syntax will request you to enter your github username and password, once you provide the details correctly you can go ahead and push your changes to github.
 
 ### 1. **Push changes to GitHub**
-Now that you are done making changes to the repository you can now push to GitHub, using the syntax:
+
+Now that you are done making changes to the repository you can now push to GitHub, using the command
+
 ```
 git push origin my-message
 ```
-The syntax will push your work to the GitHub Repository, once your edit is considered okay, the project owner can commit the changes to the repository.
+The syntax will push your work to the GitHub repository, once your edit is considered okay, the project owner can commit the changes to the repository main branch.
 
 ## **GitHub Desktop** vs **GitHub CLI**
 
@@ -156,11 +156,11 @@ This table shows some differences between GitHub Desktop and GitCLI
 
 |   | GitHub Desktop  | GitHub CLI  |      
 |---|---|---|
-| 1.  | makes image changes |  create repository, clone, and pull request |     
-| 2.  | Add changes to your commit| perform Review, diff, and merge pull requests  |     
-| 3.  | check branches with pull requests  | create, close, edit, and view issues and pull requests  |     
+| 1.  | create git repository, add project with interface |  create repository, clone, and pull request with commands |     
+| 2.  | The GUI interface makes collaboration more flexible| perform Reviews with commands  |     
+| 3.  | Perform GitHub operations with GUI | Perform GitHub operations with command Line  |     
 
 
 # **Conclusion**
 
-GitHub gives users collaborating feature to a project without interrupting the original file. Developers can contribute to projects, make code changes and submit the changes to the online repository. GitHub gives developers different versions of their code projects. Aside from working on your team project or private repository, users can contribute to open-source projects hosted by other developers on Github.
+GitHub gives users a collaboration feature for a project without interrupting the original file. Developers can contribute to projects, make code changes, and submit the changes to the online repository. GitHub gives developers different versions of their code projects. Users can contribute to open-source projects hosted by other developers on Github.
