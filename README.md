@@ -111,7 +111,7 @@ After creating a branch name you can now make changes to your repository by typi
 
 `README.MD` in the Git CMD.
 
-![image](add 3.PNG)
+![image](read.PNG)
 
 This will open the repository readme file you want to work on. Once you are done adding changes to the repository you save.
 
