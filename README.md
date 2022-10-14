@@ -60,22 +60,34 @@ This process will have your Git repository cloned in your local Git CMD.
 Next, after cloning a repository, is how to perform a pull request. Pull requests work for collaboration; they inform collaborators about changes made in a GitHub repository. Before you do a pull request on a repository, you will need to duplicate that repository, called a fork, so you can make changes without affecting the original project file.
 
 ### 1. **Fork Respository** 
-If you have identified the repository you are making changes to, you navigate to the upper right-hand corner of the GitHub repository and click on the fork. Note that the fork request takes some time to duplicate your copy of the repository.
+If you have identified the repository you are making changes to, you click on the fork tab.
 
-![Picture](fork.PNG)
+![Picture](fork1.PNG)
+
+ Note that the fork request takes some time to duplicate your copy of the repository.
 
 ### 2. **Clone the Repository** 
 
-
-Once you are done with the fork request, you copy the reposittory URL, go to your git terminal and paste the URL with the below syntax:
+Once you are done with the fork request, you copy the repository URL, 
+1. Open your **Git CMD** and paste the URL 
+syntax:
 ```
- git clone [paste the copied url] and hit enter key
+ git clone [copied url] hit the enter key
  ```
+ **Command**
+```
+git clone https://github.com/OlibabaTV/open-source-handbook.git
+```
 ![Picture](clonet.PNG) 
 
-now that you have successfully cloned the repository to the terminal, you will create a new directory for the cloned repository with the command syntax:
+now that you have successfully cloned the repository to the Git CMD, you will create a new directory for the cloned repository 
+with the syntax:
 ```
 cd (Name of Directory)
+```
+**Command**
+```
+cd open-source-handbook
 ```
 ![Picture](cd.PNG) 
 
