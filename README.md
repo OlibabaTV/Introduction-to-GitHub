@@ -28,7 +28,7 @@ This table shows some differences between Git and GitHub.
 |Git      | GitHub |
 | ---      | ------- |
 |Git is hosted locally   | GitHub is an online platform  |
-| Git is a command line tool | GitHub is a Graphics User Intterface tool    |
+| Git is a command line tool | GitHub is a Graphics User Interface tool    |
 | Git is powered by Linux    | GitHub is powered by Microsoft   |
 |Git is a version control system  |    GitHub is a hosting platform for Git Repository
 | Git is a software | GitHub is an open source platform
@@ -127,7 +127,7 @@ Since you have made changes in the reposiotry you can now add it to the branch n
 ```
 ![Picture](add1.PNG) 
 
-Note that Only changed and untracked files in the current directory will be added when you run git add.
+Note that only changed and untracked files in the current directory will be added when you run git add.
 
 # **Commit your changes**
 This means saving the record that has been edited in the repository to your branch. You can achieve this with the command
@@ -136,7 +136,7 @@ This means saving the record that has been edited in the repository to your bran
 git commit -m "my-message"
   ```
   
-The syntax will request you to enter your github username and password, once you provide the details correctly you can go ahead and push your changes to github.
+The command will request you to enter your github username and password, once you provide the details correctly you can go ahead and push your changes to github.
 
 ### 1. **Push changes to GitHub**
 
@@ -156,7 +156,7 @@ This table shows some differences between GitHub Desktop and GitCLI
 
 |   | GitHub Desktop  | GitHub CLI  |      
 |---|---|---|
-| 1.  | create git repository, add project with interface |  create repository, clone, and pull request with commands |     
+| 1.  | create git repository, clone, add project etc with GU interface |  create repository, clone, and pull request with commands |     
 | 2.  | The GUI interface makes collaboration more flexible| perform Reviews with commands  |     
 | 3.  | Perform GitHub operations with GUI | Perform GitHub operations with command Line  |     
 
