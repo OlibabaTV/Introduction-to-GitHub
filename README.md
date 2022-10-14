@@ -35,7 +35,10 @@ This table shows some differences between Git and GitHub.
 
 #  **How to do cloning**
 Cloning allows users to copy the Git repository from GitHub to their local system. These instructions will show you how to clone your Git Repository to your local terminal in windows operating system.
-1. From the Git repository, click on the Code button, select HTTPS and copy the repository URL
+1. From the Git repository 
+2. Click on the Code button 
+3. Select HTTPS
+4. Copy the repository URL
  
   ![my_image](clone2.PNG)
 
