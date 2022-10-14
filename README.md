@@ -98,7 +98,7 @@ After creating a folder for the cloned repository, The next thing to do is to cr
 ```
 git checkout -b [Branch Name]
 ```
-```
+
 **Command**
 ```
 git checkout -b my-message
@@ -108,14 +108,13 @@ git checkout -b my-message
 ### 4. **Edit your project** 
 
 After creating a branch name you can now make changes to your repository by typing the command
-
+```
 **README.MD** in the Git CMD.
+```
 
-This will open the repository readme file you want to work on. 
+This will open the repository readme file you want to work on. Once you are done adding changes to the repository you save.
 
-Once you are done adding changes to the repository you save.
-
-you can view the changes in the Git CMD with command
+You can view the changes made in the Git CMD with command
 
 ```
  git diff
