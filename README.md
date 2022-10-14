@@ -45,7 +45,7 @@ Cloning allows users to copy the Git repository from GitHub to their local syste
 5. Launch and open **Git CMD** from your windows search button  
 6. type syntax 
 ```
- **git Clone**' [copied url] hit the enter key
+ git Clone [copied url] hit the enter key
 ```
 **Command**
 ```
@@ -81,7 +81,7 @@ git clone https://github.com/OlibabaTV/open-source-handbook.git
 ```
 ![Picture](clonet.PNG) 
 
-now that you have successfully cloned the repository to the Git CMD, you will create a new directory for the cloned repository
+now that you have successfully cloned the repository to the Git CMD, you will create a new folder for the cloned repository
 
 with the syntax
 ```
@@ -94,28 +94,44 @@ cd open-source-handbook
 ![Picture](cd.PNG) 
 
 ### 3. **Create a branch** 
-The next step is to create a branch, creating a branch on a repository you are working on gives you a clear track of the changes you have made in the project. A branch name should be simple and clear. You can create a branch with the syntax: 
-
+After creating a folder for the cloned repository, The next thing to do is to create a branch, creating a branch on a repository you are working on gives you a clear track of the changes you have made in the project. A branch name should be simple and clear. You can create a branch with the syntax 
 ```
 git checkout -b [Branch Name]
+```
+```
+**Command**
+```
+git checkout -b my-message
 ```
 ![Picture](check.PNG) 
 
 ### 4. **Edit your project** 
-After creatting your branch name you can now make changes to your repository by typing command syntax **README.MD** in the terminal. This will open the repository readme file you want to work on. 
 
-Once you are done adding changes to tthe repository you save, view the changes in the terminal with command syntax:
+After creating a branch name you can now make changes to your repository by typing the command
+
+**README.MD** in the Git CMD.
+
+This will open the repository readme file you want to work on. 
+
+Once you are done adding changes to the repository you save.
+
+you can view the changes in the Git CMD with command
+
 ```
  git diff
 ```
 ![Picture](diff.PNG) 
 
 ### 5. **Add changes to the branch** 
-Since you have made your changes in the reposiotry you can now add it to the branch name you created with the command syntax:
+
+Since you have made changes in the reposiotry you can now add it to the branch name you created with the command
+
 ```
  git add . or git add Readme.md
 ```
 ![Picture](add1.PNG) 
+
+Note that Only changed and untracked files in the current directory will be added when you run git add.
 
 # **Commit your changes**
 This means saving the record that has been edited in the repository to your branch. You can achieve this with the syntax: 
