@@ -18,7 +18,7 @@ GitHub is an online platform where users upload code files, projects, and techni
 
 
 # **Why GitHub**
-They are various reasons people use GitHub which includes uploading of project, managing tasks, team collaboration on code files. One exciting thing about GitHub is that it allows multiple users work remotely on a project without compromising the project's integrity. With GitHub, you can backup your files and share your code with collaborators. 
+There are various reasons people use GitHub, which include uploading projects, managing tasks, and team collaboration on code files. One exciting thing about GitHub is that it allows multiple users to work remotely on a project without compromising the project's integrity. With GitHub, you can back up your files and share your code with collaborators. 
 
 # **Git vs GitHub**
 Git is a version control system that allows users to keep track of changes made on code projects or documents. Git manages source code and stores different versions of code files during the editing process while GitHub is an online platform where users upload project for others to view, access and contribute to the project. All the operations performed in GitHub are hosted using Git Repository.Every project file is stored in a folder called repository; a repository contains all your project files, documents, and code.
