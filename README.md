@@ -43,7 +43,7 @@ Cloning allows users to copy the Git repository from GitHub to their local syste
   ![image](clone3.PNG)
 
 5. On the windows taskbar select the search icon and type **Git CMD**   
-6. type syntax `git Clone [copied url] hit the enter key`
+6. Type syntax `git Clone [copied url] hit the enter key`
 
 **Command**
 ```
